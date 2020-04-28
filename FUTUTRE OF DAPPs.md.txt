@@ -1,0 +1,13 @@
+FUTUTRE OF DAPPs
+
+A decentralized application is a computer application that runs on a distributed computing system. DApps have been popularized by distributed ledger technologies (DLT) such as 
+the Ethereum Blockchain, where DApps are often referred to as smart contracts. DApps are typically open source, decentralized, incentivized through providing tokens to those
+who validate the DApp, and in compliance with a specific protocol agreed upon within the community.
+
+Decentralized applications’ key advantage is the distribution of essential components, a move that improves fault tolerance and makes it practically impossible and expensive to attack
+such a network. The backbone of Dapps-blockchain-ensures fast, reliable and secure applications to enhance the customer experience. With increased volume as well as velocity of 
+data from new sources like IoT and social media, blockchain and Dapps provide a fast, efficient and affordable way of processing storing big data. Additionally, decentralization acts a 
+barrier to collusion, a move that has often allowed corporations and governments to exploit others.
+
+Decentralized apps remain a space to watch for key disruptions in the technology industry. With all the advantages that they present to businesses, dApp Builder makes it much easier
+to create Dapps that would enhance business operation.
